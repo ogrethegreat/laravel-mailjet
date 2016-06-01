@@ -1,5 +1,5 @@
 {
-    "name": "siallez/laravel-mailjet",
+    "name": "ogrethegreat/laravel-mailjet",
     "type": "library",
     "description": "Mailjet wrapper for Laravel",
     "keywords": ["laravel", "mailjet", "mail"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/mail": "5.1.x",
+        "illuminate/mail": ">=5.1.x",
         "mailjet/mailjet-apiv3-php": "1.0.x"
     },
     "autoload": {
